@@ -8,7 +8,6 @@ cffi==1.14.6
 charset-normalizer==2.0.4
 chrome-gnome-shell==0.0.0
 click==8.0.1
-cloudpickle==2.0.0
 cryptography==3.4.7
 cupshelpers==1.0
 dasbus==1.6
@@ -17,8 +16,6 @@ distro==1.6.0
 fedora-third-party==0.8
 fros==1.1
 gpg==1.15.1
-gym==0.21.0
-gym-donkeycar==1.1.1
 humanize==0.5.1
 idna==3.2
 langtable==0.0.56
@@ -27,7 +24,6 @@ lxml==4.6.3
 Mako==1.1.4.dev0
 MarkupSafe==2.0.0
 nftables==0.1
-numpy==1.21.4
 olefile==0.46
 packaging==21.0
 Paste==3.5.0
